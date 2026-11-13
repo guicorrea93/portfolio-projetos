@@ -2,7 +2,7 @@
 
 ![Thumbnail do Dashboard](data/thumbnail.png)
 
-👉 [**Visualizar Dashboard**](https://guicorrea93.github.io/PortifolioProjetos/projeto_2/report/)
+👉 [**Visualizar Dashboard**](https://guicorrea93.github.io/portfolio-projetos/02-superstore-eda-interativa/report/)
 
 Este projeto apresenta uma **análise exploratória de dados (EDA)** completa sobre o dataset **Sample Superstore**, combinando **Python para processamento e análise** com um **relatório interativo em HTML** para visualização executiva dos resultados.
 
@@ -23,7 +23,7 @@ O foco não é apenas gerar gráficos, mas **contar a história dos dados**, exp
 ## 🧱 Estrutura do projeto
 
 ```text
-projeto_2/
+02-superstore-eda-interativa/
 ├─ data/
 │  ├─ raw/
 │  │  └─ Sample - Superstore.xlsx

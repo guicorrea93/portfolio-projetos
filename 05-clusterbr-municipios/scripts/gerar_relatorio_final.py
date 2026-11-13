@@ -5,7 +5,7 @@ Gera relatorio_interativo.html autocontido:
 """
 import base64, json, os
 
-BASE = r'c:\Users\guilhermecorrea\Downloads\Gui\Projetos\PortifolioProjetos\projeto_5'
+BASE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 FIG  = os.path.join(BASE, 'outputs', 'figures')
 OUT  = os.path.join(BASE, 'outputs', 'relatorio_interativo.html')
 

@@ -2,7 +2,7 @@
 
 ![Thumbnail do Projeto](data/thumbnail.png)
 
-👉 [**Visualizar Dashboard**](https://guicorrea93.github.io/PortifolioProjetos/projeto_5/)
+👉 [**Visualizar Dashboard**](https://guicorrea93.github.io/portfolio-projetos/05-clusterbr-municipios/)
 
 ## 📌 Visão Geral
 Este projeto apresenta uma **análise completa de segmentação territorial do Brasil**, construída de ponta a ponta:  
@@ -169,7 +169,7 @@ Resumo dos resultados, recomendações de uso e próximos passos.
 ## 🗂️ Estrutura do Repositório
 
 ```
-projeto_5/
+05-clusterbr-municipios/
 │
 ├── 00_configuracao_inicial.ipynb
 ├── 01_coleta_dados.ipynb
@@ -191,7 +191,7 @@ projeto_5/
 ---
 
 ## 🔗 Acesso ao Relatório Interativo
-👉 [**Visualizar Relatório**](https://guicorrea93.github.io/PortifolioProjetos/projeto_5/index.html)
+👉 [**Visualizar Relatório**](https://guicorrea93.github.io/portfolio-projetos/05-clusterbr-municipios/index.html)
 
 ---
 

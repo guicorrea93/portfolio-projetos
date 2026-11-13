@@ -2,7 +2,7 @@
 
 ![Thumbnail do Dashboard](images/thumbnail.png)
 
-👉 [**Visualizar Dashboard**](https://guicorrea93.github.io/PortifolioProjetos/projeto_4/)
+👉 [**Visualizar Dashboard**](https://guicorrea93.github.io/portfolio-projetos/04-rossmann-previsao-vendas/)
 
 📊 Parte 1 — Exploração & Preparação de Dados  
 🤖 Parte 2 — Modelagem Preditiva e Resultados  
@@ -33,7 +33,7 @@ O projeto simula um **cenário real de forecasting**, respeitando rigorosamente 
 ## 🧱 Estrutura do Projeto
 
 ```text
-projeto_4/
+04-rossmann-previsao-vendas/
 ├─ data/
 │  ├─ raw/
 │  │  ├─ train.csv

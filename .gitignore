@@ -3,8 +3,8 @@
 venv/
 
 # arquivos grandes de ML (não versionar)
-projeto_4/models/
-projeto_4/data/processed/
+04-rossmann-previsao-vendas/models/
+04-rossmann-previsao-vendas/data/processed/
 
 # opcionais comuns
 __pycache__/

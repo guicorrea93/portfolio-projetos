@@ -5,7 +5,7 @@ Reduz tamanho dos arquivos grandes do projeto:
 """
 import json, os
 
-BASE = r'c:\Users\guilhermecorrea\Downloads\Gui\Projetos\PortifolioProjetos\projeto_5'
+BASE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 # ─────────────────────────────────────────────
 # 1. SIMPLIFICAR GEOJSON

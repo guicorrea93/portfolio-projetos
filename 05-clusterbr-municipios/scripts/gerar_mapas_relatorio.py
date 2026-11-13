@@ -21,7 +21,7 @@ import warnings
 warnings.filterwarnings('ignore')
 
 # Paths
-BASE = r'c:\Users\guilhermecorrea\Downloads\Gui\Projetos\PortifolioProjetos\projeto_5'
+BASE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SHP = os.path.join(BASE, 'data', 'raw', 'municipios_brasil', 'BR_Municipios_2022.shp')
 CSV_MELHORADO = os.path.join(BASE, 'outputs', 'results', 'municipios_clusters_melhorado.csv')
 OUT_FIG = os.path.join(BASE, 'outputs', 'figures')

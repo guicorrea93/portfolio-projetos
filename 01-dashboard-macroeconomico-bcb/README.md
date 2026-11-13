@@ -1,6 +1,6 @@
 # Dashboard Macroeconômico — Banco Central (SGS)
 
-![Thumbnail do Dashboard](assets/thumbnail_projeto_1.png)
+![Thumbnail do Dashboard](assets/thumbnail.png)
 
 Este projeto apresenta um dashboard macroeconômico desenvolvido em Power BI a partir de dados públicos do Banco Central do Brasil (SGS).
 
