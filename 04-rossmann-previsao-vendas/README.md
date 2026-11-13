@@ -50,3 +50,15 @@ O projeto simula um **cenário real de forecasting**, respeitando rigorosamente 
    │  ├─ css/
    │  ├─ js/
    └─ index.html
+
+## ▶️ Como Executar
+
+```powershell
+py -3.13 -m venv .venv
+.venv\Scripts\pip install -r requirements.txt
+```
+
+Depois rode os notebooks em ordem: `01_rossmann_exploration.ipynb` gera
+`data/processed/` e `02_rossmann_modeling.ipynb` treina e salva os modelos em
+`models/`. Essas duas pastas e o `.venv` ficam fora do git.
+
